@@ -1,4 +1,4 @@
-module github.com/coredns/fallback
+module github.com/nahanil/fallback
 
 go 1.14
 
